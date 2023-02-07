@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add bgr hyperparameter (#9139)
