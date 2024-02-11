@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add visuals in guides/distance-calculation.md (#7876)
