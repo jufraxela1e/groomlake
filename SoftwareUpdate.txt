@@ -1,1 +1,1 @@
-fix non-coco val
+Fix PNNX ubuntu -> linux bug (#7050)
